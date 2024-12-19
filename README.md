@@ -1,5 +1,5 @@
 # C# Web - September 2024 - CinemaApp 🎥
-🎓 Welcome to **CinemaApp**, a web application developped during the Workshops in ASP.NET Core Fundamentals and ASP.NET Core Advanced courses in SoftUni led by Kristian Ivanov, designed to demonstrate core web development skills and technologies through a cinema ticketing and management system.
+🎓 Welcome to **CinemaApp**, a web application developed during the Workshops in ASP.NET Core Fundamentals and ASP.NET Core Advanced courses in SoftUni led by Kristian Ivanov, designed to demonstrate core web development skills and technologies through a cinema ticketing and management system.
 
 ---
 
